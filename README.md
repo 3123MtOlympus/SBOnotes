@@ -46,7 +46,7 @@ Start the Express.js server:
 bash
 Copy code
 npm start
-Open your web browser and go to http://localhost:3000 to access the note-taking website.
+Open your web browser and go to http://localhost:3001 to access the note-taking website.
 
 Register an account and log in to get started.
 
